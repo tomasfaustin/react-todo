@@ -1,11 +1,11 @@
-var react = require('React');
+var React = require('react');
 
 var TodoApp = React.createClass({
-  render function () {
+  render: function () {
     return (
-    <div>
-      TodoApp.jsx
-    </div>
+      <div>
+        TodoApp.jsx
+      </div>
     )
   }
 });
